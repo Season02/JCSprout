@@ -1,7 +1,7 @@
 
 <div align="center">  
 
-<img src="https://ws1.sinaimg.cn/large/0069RVTdly1fubocn5pxaj30go082dg1.jpg" width=""/> 
+<img src="https://avatars0.githubusercontent.com/u/16442577?s=460&v=4" width=""/> 
 <br/>
 
 [![Build Status](https://travis-ci.org/crossoverJie/JCSprout.svg?branch=master)](https://travis-ci.org/crossoverJie/JCSprout)
